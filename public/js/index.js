@@ -29,7 +29,7 @@ for (let i = 1; i <= 10; i++) {
 }
 console.log(chiffre3); 
 
-let nbr = 0; // définissez une variable num à 0
+let nbr = 0; 
 
 while (nbr <= 0) { 
     nbr = prompt("Saisissez un nombre positif:"); 
